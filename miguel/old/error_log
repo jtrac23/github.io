@@ -1,0 +1,137 @@
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:06:56 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:07:31 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:08:15 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 12:08:15 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 12:08:15 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:09:12 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(/inc/header.inc): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 21
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(): Failed opening '/inc/header.inc' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 21
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(/inc/nav.inc): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 22
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(): Failed opening '/inc/nav.inc' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 22
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(/inc/settings.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 28
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(): Failed opening '/inc/settings.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 28
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(/inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:09:59 America/Chicago] PHP Warning:  include(): Failed opening '/inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:11:33 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 46
+[02-Mar-2017 12:13:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:13:36 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:13:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:14:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:14:28 America/Chicago] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:14:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:18:39 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 30
+[02-Mar-2017 12:18:39 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 32
+[02-Mar-2017 12:18:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:21:02 America/Chicago] PHP Warning:  require_once(settings.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/index.php on line 4
+[02-Mar-2017 12:21:02 America/Chicago] PHP Fatal error:  require_once(): Failed opening required 'settings.php' (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/index.php on line 4
+[02-Mar-2017 12:21:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 31
+[02-Mar-2017 12:21:45 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:21:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 36
+[02-Mar-2017 12:22:50 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 31
+[02-Mar-2017 12:22:50 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:22:50 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 36
+[02-Mar-2017 12:24:19 America/Chicago] PHP Parse error:  syntax error, unexpected '$link' (T_VARIABLE) in /home1/jtracypo/public_html/miguel/bs/index.php on line 5
+[02-Mar-2017 12:25:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 31
+[02-Mar-2017 12:25:42 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:25:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 36
+[02-Mar-2017 12:26:42 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 31
+[02-Mar-2017 12:26:42 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:26:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 36
+[02-Mar-2017 12:26:46 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 31
+[02-Mar-2017 12:26:46 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:26:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 36
+[02-Mar-2017 12:28:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 33
+[02-Mar-2017 12:28:40 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 35
+[02-Mar-2017 12:28:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/jtracypo/public_html/miguel/bs/index.php on line 38
+[02-Mar-2017 12:29:58 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:29:58 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 12:30:45 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:30:45 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 12:30:48 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:30:48 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 12:32:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:32:25 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 12:33:17 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:33:17 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 12:35:14 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'Jt632676#'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 17
+[02-Mar-2017 12:35:14 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/settings.php on line 21
+[02-Mar-2017 13:16:56 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 13:16:56 America/Chicago] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 13:16:56 America/Chicago] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 64
+[02-Mar-2017 14:31:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 36
+[02-Mar-2017 14:31:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 39
+[02-Mar-2017 15:35:21 America/Chicago] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 6
+[02-Mar-2017 15:35:21 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 10
+[02-Mar-2017 15:36:31 America/Chicago] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 6
+[02-Mar-2017 15:36:31 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 10
+[02-Mar-2017 15:36:43 America/Chicago] PHP Warning:  password_hash() expects at least 2 parameters, 1 given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 6
+[02-Mar-2017 15:36:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 10
+[02-Mar-2017 16:16:26 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 6
+[02-Mar-2017 16:16:58 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 5
+[02-Mar-2017 16:16:58 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/admin_login.php on line 6
+[02-Mar-2017 16:27:24 America/Chicago] PHP Parse error:  syntax error, unexpected 'j' (T_STRING) in /home1/jtracypo/public_html/miguel/bs/blog.php on line 44
+[02-Mar-2017 18:01:17 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 11
+[02-Mar-2017 18:03:12 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 17
+[02-Mar-2017 18:03:12 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 21
+[02-Mar-2017 18:05:17 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_board_game_project'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 17
+[02-Mar-2017 18:05:17 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 21
+[02-Mar-2017 18:08:03 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'jtracypo_admin'@'localhost' (using password: YES) in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 17
+[02-Mar-2017 18:08:03 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home1/jtracypo/public_html/miguel/bs/inc/admin_settings.php on line 21
+[02-Mar-2017 18:19:52 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 8
+[02-Mar-2017 18:19:52 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 9
+[05-May-2017 16:51:53 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/jtracypo/public_html/miguel/bs/delete.php on line 9
+[05-May-2017 16:52:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home1/jtracypo/public_html/miguel/bs/delete.php on line 9
+[05-May-2017 16:54:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'alert' (T_STRING) in /home1/jtracypo/public_html/miguel/bs/delete.php on line 9
+[05-May-2017 16:55:20 America/Chicago] PHP Parse error:  syntax error, unexpected ''<button type="button" class="' (T_ENCAPSED_AND_WHITESPACE) in /home1/jtracypo/public_html/miguel/bs/delete.php on line 10
+[05-May-2017 16:56:03 America/Chicago] PHP Parse error:  syntax error, unexpected ''<button class="btn btn-warnin' (T_ENCAPSED_AND_WHITESPACE) in /home1/jtracypo/public_html/miguel/bs/delete.php on line 10
+[05-May-2017 16:57:02 America/Chicago] PHP Parse error:  syntax error, unexpected ''<button type="button" class="' (T_ENCAPSED_AND_WHITESPACE) in /home1/jtracypo/public_html/miguel/bs/delete.php on line 10
+[05-May-2017 16:58:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/delete.php on line 5
+[05-May-2017 16:59:10 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/delete.php on line 5
+[05-May-2017 18:00:19 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home1/jtracypo/public_html/miguel/bs/delete.php on line 5
+[05-May-2017 18:11:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/jtracypo/public_html/miguel/bs/delete.php on line 7
+[10-May-2017 18:40:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'delete' (T_STRING), expecting ',' or ';' in /home1/jtracypo/public_html/miguel/bs/blog.php on line 85
+[10-May-2017 19:00:35 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home1/jtracypo/public_html/miguel/bs/delete.php on line 7
+[10-May-2017 20:33:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/jtracypo/public_html/miguel/bs/blog.php on line 29
+[10-May-2017 20:33:54 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home1/jtracypo/public_html/miguel/bs/blog.php on line 29
+[11-May-2017 12:13:38 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home1/jtracypo/public_html/miguel/bs/inc/nav.inc on line 31
+[16-May-2017 12:13:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home1/jtracypo/public_html/miguel/bs/upload.php on line 2
+[16-May-2017 12:14:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$target_dir' (T_VARIABLE) in /home1/jtracypo/public_html/miguel/bs/upload.php on line 3
+[16-May-2017 12:21:32 America/Chicago] PHP Parse error:  syntax error, unexpected '');' (T_CONSTANT_ENCAPSED_STRING) in /home1/jtracypo/public_html/miguel/bs/upload.php on line 45
+[16-May-2017 12:22:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/jtracypo/public_html/miguel/bs/upload.php on line 44
+[16-May-2017 12:22:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home1/jtracypo/public_html/miguel/bs/upload.php on line 44
+[16-May-2017 12:23:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/jtracypo/public_html/miguel/bs/upload.php:1) in /home1/jtracypo/public_html/miguel/bs/upload.php on line 36
+[16-May-2017 12:39:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 37
+[16-May-2017 12:40:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 37
+[16-May-2017 12:42:03 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 38
+[16-May-2017 12:42:48 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 39
+[16-May-2017 12:44:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 40
+[16-May-2017 12:47:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home1/jtracypo/public_html/miguel/bs/upload.php on line 37
+[16-May-2017 15:02:23 America/Chicago] PHP Parse error:  syntax error, unexpected '/' in /home1/jtracypo/public_html/miguel/bs/upload.php on line 34
+[17-May-2017 17:59:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'PHP_SELF' (T_STRING), expecting ',' or ';' in /home1/jtracypo/public_html/miguel/bs/blog.php on line 97
+[17-May-2017 18:00:47 America/Chicago] PHP Parse error:  syntax error, unexpected '.' in /home1/jtracypo/public_html/miguel/bs/blog.php on line 97
+[17-May-2017 18:01:51 America/Chicago] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 41
+[17-May-2017 18:01:51 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 43
+[17-May-2017 18:01:51 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home1/jtracypo/public_html/miguel/bs/blog.php on line 44

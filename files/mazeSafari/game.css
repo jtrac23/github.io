@@ -1,0 +1,70 @@
+#canvas{ /*defines canvas*/
+	position:absolute;
+	width: 600px;
+	height: 300px;
+	top: 85px;
+	left: 25px;
+	/*z-index: -1;*/
+}
+#minimap{
+	border: 1px solid black;
+	position: absolute;
+	top: 85px;
+	width: 300px;
+	height: 300px;
+	left: 640px;
+}
+#screenshot-wrapper{
+	position:absolute;
+	top: 435px;
+	left: 25px;
+	border:1px solid black;
+}
+#camera{
+	width:100px;
+	position:absolute;
+	left:525px;
+	top:275px;
+}
+#back{
+	position: absolute;
+	height: 700px;
+	width: 950px;
+	z-index: -2;
+	
+}
+#titleBlock{
+	position: absolute;
+	top: 395px;
+	height: 300px;
+	width: 600px;
+	left: 340px;
+	background-image: url(titleBlock.png);
+}
+#hudTitle{
+	position: absolute;
+	width: 916px;
+	height: 50px;
+	margin-left: 25px;
+	margin-top: 25px;
+	background-image: url(hudBG.png);
+
+}
+#hudTitle h3{
+	color: white;
+	text-align: left;
+	padding-left: 25px;
+}
+
+#hudPosition{
+    position: absolute;
+
+
+	font-family: Veranda;
+	color: white;
+	padding-top: 50px;
+	padding-left: 550px;
+	
+	
+	
+}

@@ -1,0 +1,41 @@
+html, body{
+    background-color:#eee; !important
+    height:100%;
+    padding:0;
+    margin:0;
+}
+#navi{
+    margin-bottom:0px;
+    margin-top:0px;
+}
+#header{
+    color: black;
+    margin-top:50px;
+    margin-bottom:0px;
+    padding-top:25px;
+    padding-bottom: 75px;
+    text-align: center;
+    background-image: url("images/newMap.png"); !important
+    
+}
+#content{
+    padding:50px;
+    background-color: #eee;
+}
+#contentForm{
+    background-color: coral; !important
+}
+#footer{
+    background-color: #eee;
+    text-align: center;
+    margin: 0px;
+    overflow: hidden;
+    padding: 0px;
+}
+#homecontent{
+    font-size: 12px;
+}
+#blogBody{
+    padding-left: 25px;
+    padding-right: 25px;
+}

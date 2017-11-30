@@ -1,0 +1,133 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+
+}
+h1 {
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+h2 {
+    font-weight: bolder;
+}
+h3 {
+    text-align: center;
+    padding-bottom:25px;
+}
+.card-outline-primary {
+    background-color:#eee;
+}
+.section {
+    position: relative;
+    width: 100%;
+    background-color:#f2f2f2;
+    padding-bottom:50px;
+    padding-top:50px;
+    
+}
+
+#main{
+    font-family: 16px Lato, sans-serif; 
+    overflow-x: hidden;
+}
+
+#courseList {
+    margin-left: 20px;
+    list-style-type: square;
+}
+#eduP {
+    text-align:center;
+}
+#profile{
+    /*height: 200px;
+    width: 200px;
+    display:block;
+    margin: auto;*/
+}
+
+
+#aboutMe {
+    padding-top:50px;
+    padding-bottom:100px;
+    margin-bottom:0px;
+
+}
+#projects {
+    margin-bottom:0px;
+}
+#references {
+    color:white;
+}
+
+/*#introback { To be implemented later
+    background-image: url('images/edubg.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 23em;
+    z-index: -1;
+    position: absolute;
+    margin-top:50px;
+    display: block;
+}*/
+#backEdu {
+    background-image: url('images/breweryClouds.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100%;
+    /*z-index: 2;*/
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+#signBack {
+    background-image: url('images/countrySigns.png');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    width: 100% !important;
+    /*z-index: 2;*/
+    position: relative;
+    /*padding-top: 100px;*/
+
+}
+#goals {
+    padding-top:50px;
+    padding-bottom:100px;
+}
+#pathing {
+    padding-top:100px;
+    padding-bottom:100px;
+}
+
+#wiaHead{
+    text-align:center;
+    padding-top:25px;
+    padding-bottom:10px;
+}
+
+#cardContent {
+    text-align:center;
+}
+#goalCard{
+    background-color:#eee;
+}
+/*
+* {
+  background: #000 !important;
+  color: #0f0 !important;
+  outline: solid #f00 1px !important;
+}
+*/
+
+
+
+
+
+
